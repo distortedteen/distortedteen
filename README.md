@@ -1,6 +1,6 @@
 # Hey there, I'm Pratyay.
-21 years old.
-Linux/guitar/cycling/metal/etc enthusiast.
-Currently studying at National Forensic Sciences University.
-Here for publishing my side projects.
-Trying to be consistent.
+->21 years old. <br>
+->Linux/guitar/cycling/metal/etc enthusiast. <br>
+->Currently studying at National Forensic Sciences University. <br>
+->Here for publishing my side projects. <br>
+->Trying to be consistent. <br>
