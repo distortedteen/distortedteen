@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2027,100:1a1a2e&height=140&section=header&text=distortedteen&fontSize=42&fontColor=58a6ff&fontAlign=50&fontAlignY=65&animation=fadeIn&desc=forensic%20sci%20%E2%86%92%20cybersecurity%20%C2%B7%20builder%20%C2%B7%20linux%20hobbyist&descSize=14&descAlignY=85&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,30:0f1923,70:0f2027,100:1a1a2e&height=200&section=header&text=distortedteen&fontSize=52&fontColor=58a6ff&fontAlign=50&fontAlignY=55&animation=fadeIn&desc=forensic%20sci%20%E2%86%92%20cybersecurity%20%C2%B7%20builder%20%C2%B7%20linux%20hobbyist&descSize=15&descAlignY=72&descColor=8b949e)
 
 </div>
 
@@ -27,9 +27,11 @@ $ cat stack.txt
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Tools & Platforms**
 
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=archlinux&logoColor=white)
@@ -48,6 +50,7 @@ $ ls -la projects/
 
 | name | description | stack |
 |------|-------------|-------|
+| **[waveform-ink](https://github.com/distortedteen/waveform-ink)** | Terminal waveform renderer — audio meets ASCII | Python |
 | **[chronicle](https://github.com/distortedteen/chronicle)** | CLI logbook for makers and builders | Python · Typer · Textual |
 | **[camascii](https://github.com/distortedteen/camascii)** | Terminal ASCII renderer with audio-reactive mode & glitch effects | Python |
 | **[spark-print-automation](https://github.com/distortedteen/spark-print-automation)** | Campus printing system with token queue and UPI integration | HTML · Python |
@@ -61,14 +64,15 @@ $ cat /proc/stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=distortedteen&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=distortedteen&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=distortedteen&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=distortedteen&theme=tokyonight&hide_border=true&layout=compact&count_private=true&cache_seconds=86400" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=distortedteen&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=distortedteen&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </div>
 
@@ -88,7 +92,7 @@ WEEKEND  → Arch · Gentoo · NixOS  (when I want to suffer productively)
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f2027,100:0d1117&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=blur&color=0:1a1a2e,50:0f2027,100:0d1117&height=100&section=footer)
 
 *"The quieter you become, the more you can hear."*
 
