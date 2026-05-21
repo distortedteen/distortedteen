@@ -83,7 +83,7 @@ $ cat /etc/os-release
 ```
 
 ```
-DAILY    → CachyOS / Hyprland
+DAILY    → CachyOS + Hyprland
 LABWORK  → Kali Linux
 WEEKEND  → Arch · Gentoo · NixOS  (when I want to suffer productively)
 ```
